@@ -1,0 +1,14 @@
+.custom-container {
+    width: 300px;
+    margin: 25px auto;
+}
+
+.col-4 {
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.custom-color {
+    color: #cd3700!important;
+}
